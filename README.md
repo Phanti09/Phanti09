@@ -2,7 +2,7 @@
 - 👀 I’m interested in Joomla 4
 - 🌱 I’m currently learning creating templates
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me via email phanti09@gmail.com
 
 <!---
 Phanti09/Phanti09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
